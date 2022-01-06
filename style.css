@@ -54,6 +54,40 @@
     text-align: center;
 }
 
+.lob-img {
+    height: auto;
+    width: 900px;
+}
+
+.lob-head {
+    color: rgb(130, 130, 255);
+    font-size: 32px;
+    font-family: Arial, sans-serif;
+    text-align: left;
+}
+
+.lob-text {
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    text-align: left;
+}
+
+.lob-text.reviews {
+    color: rgb(137,172,118)
+}
+
+.lob-text.credit {
+    color: rgb(229, 190, 001);
+}
+
+.lob-text.ingre {
+    color: rgb(120,133,139)
+}
+
+.lob-text.steps {
+    color: rgb(197,029,052)
+}
+
 /* Potatoes Page CSS */ 
 
 .potpg-title {
