@@ -7,6 +7,22 @@
     text-align: center;
 }
 
+.christmas-tree {
+    height: auto;
+    width: 925px;
+}
+
+.december-img {
+    height: 566px;
+    width: 925px;
+}
+
+.links {
+    text-align: center;
+}
+
+
+
 /* Steak Page CSS */
 
 .steakpg-title {
@@ -33,3 +49,4 @@
     font-family: Verdana, sans-serif;
     text-align: center;
 }
+
