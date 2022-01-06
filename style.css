@@ -17,18 +17,31 @@
     width: 925px;
 }
 
-.links {
-    text-align: center;
-}
-
-
-
 /* Steak Page CSS */
 
 .steakpg-title {
     color: rgb(35, 190, 35); 
     font-size: 44px;
     font-family: Verdana, sans-serif;
+    text-align: center;
+}
+
+.steak-img {
+    height: 400px;
+    width: 2000px;
+}
+
+.steak-head {
+    color: rgb(41, 36, 36);
+    font-size: 32px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.steak-text {
+    color: rgb(119, 31, 31);
+    font-size: 24px;
+    font-family: Arial, sans-serif;
     text-align: center;
 }
 
